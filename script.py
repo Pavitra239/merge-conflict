@@ -1,4 +1,4 @@
 feedback = {
     "title": "Feedback on Your Code",
-    "body": "Your code is well-structured and easy to follow. Great job!"
+    "body": "Consider using more descriptive variable names."
 }
